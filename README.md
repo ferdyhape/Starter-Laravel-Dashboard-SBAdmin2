@@ -31,7 +31,7 @@ this repository is the starter dashboard template on laravel
     example.com/dashboard
     ```
 
-## :camera: page screenshot
+## :camera: Page Screenshot
 <img src="https://user-images.githubusercontent.com/75787853/211215396-1aaa873f-a82a-417a-bde5-70195e02d3e6.png" width=70% height=70%><br>
 
 ## :link: About Creator
