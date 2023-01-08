@@ -9,6 +9,7 @@ this repository is the starter dashboard template on laravel
     ```
     git clone https://github.com/ferdyhape/starter-laravel-dashboard-sbadmin2.git
     ```
+3.  Copy .env.example and paste as .env to your project folder, customize the .env file 
 4.  Install dependencies
 
     ```
