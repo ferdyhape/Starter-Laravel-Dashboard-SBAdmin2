@@ -1,4 +1,4 @@
-# Starter Dashboard Template Laravel
+# Starter Dashboard Template SB-Admin Laravel
 ### :open_book: Description
 this repository is the starter dashboard template on laravel
 9 by using a template from [StartBootstrap](https://github.com/StartBootstrap) with the template name [sb-admin2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
